@@ -1,0 +1,20 @@
+@font-face {
+    font-family: R4;
+    src: url(../fonts/Roboto-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: R7;
+    src: url(../fonts/Roboto-Bold.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: G4;
+    src: url(../fonts/Graphik-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: G7;
+    src: url(../fonts/Graphik-Bold.ttf);
+    font-weight: 400;
+}
